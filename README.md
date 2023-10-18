@@ -1,5 +1,5 @@
 # Hello, folks! <img src="https://github.com/vindiuom96/vindiuom96/blob/main/wave.gif" width="30px">
-My name is Vindya Perera🙂. I'm an undergraduate of University of Moratuwa👩‍💻.
+My name is Vindya Perera🙂. I'm an undergraduate at Swinburne University Hawthorn VIC👩‍💻.
 
 ## 🔗 Find me on 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
