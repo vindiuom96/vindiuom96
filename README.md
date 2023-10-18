@@ -8,6 +8,8 @@ My name is Vindya Perera🙂. I'm an undergraduate at Swinburne University Hawth
 <br>
 <br>
 ## &#x1f4c8;GitHub Stats
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=vindiuom96&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vindiuom96&langs_count=5&theme=tokyonight)]()
 <a href="https://github.com/MartinHeinz/MartinHeinz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vindiuom96&langs_count=6,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
