@@ -4,7 +4,6 @@ My name is Vindy Perera🙂👩‍💻.
 ## 🔗 Find me on 
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/hackerrank.svg" />][Hackerrank]
-[<img align="left"  width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][Facebook]
 <br>
 <br>
 ## &#x1f4c8;GitHub Stats
@@ -40,4 +39,3 @@ My name is Vindy Perera🙂👩‍💻.
    
 [linkedin]: https://www.linkedin.com/in/vindya-perera/
 [Hackerrank]: https://www.hackerrank.com/VindiPerera96/
-[Facebook]: https://www.facebook.com/VindiPerera0896/
